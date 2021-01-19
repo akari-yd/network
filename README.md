@@ -1,2 +1,4 @@
 模拟实现HTTP协议接受请求并作出相应回应
 基于GBN和SR的TCP可靠性传输的模拟
+开发环境 visual studio
+编程语言 C语言
